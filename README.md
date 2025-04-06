@@ -5,7 +5,7 @@
 
 Olá, meu nome é Thales Gabriel Moura, tenho 19 anos e sou estudante de Ciências da Computação. Escolhi essa área devido à minha grande paixão por tecnologia e inovação. Tenho um imenso interesse em aprender e explorar todos os aspectos que envolvem o meu curso, desde os fundamentos até as tendências mais avançadas. Atualmente, estou entusiasmado e ansioso para começar minha trajetória profissional e estabelecer uma carreira sólida no campo da computação.
 
-### 🐲 LINGUAGENS 
+### 🐲 LINGUAGENS/CONHECIMENTOS
 
 <img 
     align="left" 
