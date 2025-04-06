@@ -65,6 +65,8 @@ Olá, meu nome é Thales Gabriel Moura, tenho 19 anos e sou estudante de Ciênci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
+
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <br/>
 <br/>
 
